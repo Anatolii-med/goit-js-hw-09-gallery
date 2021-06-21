@@ -1,48 +1,66 @@
+import i1 from '../images/1.jpg';
+import i11 from '../images/11.jpg';
+import i2 from '../images/2.jpg';
+import i22 from '../images/22.jpg';
+import i3 from '../images/3.jpg';
+import i33 from '../images/33.jpg';
+import i4 from '../images/4.jpg';
+import i44 from '../images/44.jpg';
+import i5 from '../images/5.jpg';
+import i55 from '../images/55.jpg';
+import i6 from '../images/6.jpg';
+import i66 from '../images/66.jpg';
+import i7 from '../images/7.jpg';
+import i77 from '../images/77.jpg';
+import i8 from '../images/8.jpg';
+import i88 from '../images/88.jpg';
+import i9 from '../images/9.jpg';
+import i99 from '../images/99.jpg';
+
 export const galleryItems = [
   {
-    preview: 'https://cdn.pixabay.com/photo/2019/05/14/16/43/himilayan-blue-poppy-4202825__340.jpg',
-    original:
-      'https://cdn.pixabay.com/photo/2019/05/14/16/43/himilayan-blue-poppy-4202825_1280.jpg',
+    preview: i1,
+    original: i11,
     description: 'Hokkaido Flower',
   },
   {
-    preview: 'https://cdn.pixabay.com/photo/2019/05/14/22/05/container-4203677__340.jpg',
-    original: 'https://cdn.pixabay.com/photo/2019/05/14/22/05/container-4203677_1280.jpg',
+    preview: i2,
+    original: i22,
     description: 'Container Haulage Freight',
   },
   {
-    preview: 'https://cdn.pixabay.com/photo/2019/05/16/09/47/beach-4206785__340.jpg',
-    original: 'https://cdn.pixabay.com/photo/2019/05/16/09/47/beach-4206785_1280.jpg',
+    preview: i3,
+    original: i33,
     description: 'Aerial Beach View',
   },
   {
-    preview: 'https://cdn.pixabay.com/photo/2016/11/18/16/19/flowers-1835619__340.jpg',
-    original: 'https://cdn.pixabay.com/photo/2016/11/18/16/19/flowers-1835619_1280.jpg',
+    preview: i4,
+    original: i44,
     description: 'Flower Blooms',
   },
   {
-    preview: 'https://cdn.pixabay.com/photo/2018/09/13/10/36/mountains-3674334__340.jpg',
-    original: 'https://cdn.pixabay.com/photo/2018/09/13/10/36/mountains-3674334_1280.jpg',
+    preview: i5,
+    original: i55,
     description: 'Alpine Mountains',
   },
   {
-    preview: 'https://cdn.pixabay.com/photo/2019/05/16/23/04/landscape-4208571__340.jpg',
-    original: 'https://cdn.pixabay.com/photo/2019/05/16/23/04/landscape-4208571_1280.jpg',
+    preview: i6,
+    original: i66,
     description: 'Mountain Lake Sailing',
   },
   {
-    preview: 'https://cdn.pixabay.com/photo/2019/05/17/09/27/the-alps-4209272__340.jpg',
-    original: 'https://cdn.pixabay.com/photo/2019/05/17/09/27/the-alps-4209272_1280.jpg',
+    preview: i7,
+    original: i77,
     description: 'Alpine Spring Meadows',
   },
   {
-    preview: 'https://cdn.pixabay.com/photo/2019/05/16/21/10/landscape-4208255__340.jpg',
-    original: 'https://cdn.pixabay.com/photo/2019/05/16/21/10/landscape-4208255_1280.jpg',
+    preview: i8,
+    original: i88,
     description: 'Nature Landscape',
   },
   {
-    preview: 'https://cdn.pixabay.com/photo/2019/05/17/04/35/lighthouse-4208843__340.jpg',
-    original: 'https://cdn.pixabay.com/photo/2019/05/17/04/35/lighthouse-4208843_1280.jpg',
+    preview: i9,
+    original: i99,
     description: 'Lighthouse Coast Sea',
   },
 ];
